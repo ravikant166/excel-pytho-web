@@ -1,10 +1,10 @@
 @echo off
 :: --- CONFIGURATION ---
 :: Put the full path to your Excel file here
-set INPUT_FILE="input file path"
+set INPUT_FILE="C:\Users\ravik\Downloads\output\Project-Management-Sample-Data.xlsx"
 
 :: Put the full path to where you want the HTML file saved
-set OUTPUT_FILE="output file path"
+set OUTPUT_FILE="C:\Users\ravik\Downloads\output\Project-Management-Sample-Data.html"
 :: ---------------------
 
 echo Processing Excel to HTML...
